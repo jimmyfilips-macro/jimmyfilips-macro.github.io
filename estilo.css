@@ -2,5 +2,7 @@ body {
     background-color: #2a2a2f; 
     color: #d6ecff; 
 }
-a { color: aquamarine; }
-a:visited { color: aquamarine; }
+a { color: #7fffdd; }
+a:visited { color: #7fffdd; }
+.excluido { color: #ff6200; }
+.forum { color: #ffa500; }
